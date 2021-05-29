@@ -7,6 +7,6 @@ class HelloWorld : public StaticThread<>
 {
 	void run()
 	{
-		PRINTF("Hello World!\n");
+		PRINTF("Hello World! By Sushant\n");
 	}
 } hello_world;

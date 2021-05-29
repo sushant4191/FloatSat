@@ -32,7 +32,8 @@ ASM_SOURCES =
 
 # C++ sources
 CXX_SOURCES = \
-hello_motor.cpp
+#hello_motor.cpp
+hello_world.cpp
 
 #######################################
 # binaries
